@@ -9,16 +9,6 @@
     background: black;
 
 }
-
-.moon {
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    bottom: -45px;
-    right: -80px;
-    background-color: white;
-}
 .stars {
     background-color: white;
     width: 8px;
