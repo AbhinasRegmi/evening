@@ -1,3 +1,6 @@
+html {
+    height: 100vh;
+}
 .background {
     position: fixed;
     padding: 0;
