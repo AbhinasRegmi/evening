@@ -11,6 +11,11 @@ html {
     height: 100vh;
     background: black;
 }
+.containers {
+    display: grid;
+    grid-template-column: 500px 500px;
+    background: black;
+}
 body {
     width: 100vw;
     height: 100vh;
